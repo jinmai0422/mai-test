@@ -33,4 +33,6 @@ main test 6
 
 충돌해결 후 main test 7
 branch 7
+branch 7-1
+
 
