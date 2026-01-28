@@ -27,3 +27,5 @@ branch 6
 main test 5
 
 branch 7
+
+main test 6
