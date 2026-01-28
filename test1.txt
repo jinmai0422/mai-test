@@ -20,5 +20,18 @@ branch test 3
 branch test 4
 
 main test 4
+<<<<<<< HEAD
 
 branch 5
+branch 6
+
+main test 5
+
+branch 7
+
+main test 6
+
+branch tes 8
+branch test 8-1
+=======
+>>>>>>> parent of 34ff1cc (branch 5)
